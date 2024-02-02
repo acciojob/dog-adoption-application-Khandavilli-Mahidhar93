@@ -1,2 +1,16 @@
+form{
+	background-color: lightgray;
+	border:1px solid black;
+	border-radius:5px;
+	width: 400px;
+	padding: 5%;
+}
 
+#submit{
+	background-color: lightgreen;
+	border:1px solid black;
+	border-radius: 5px;
+	padding:7px 12px;
+	
+}
 /* Your CSS Code here. */
